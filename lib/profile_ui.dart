@@ -21,7 +21,7 @@ class ProfileUI extends StatelessWidget {
             Positioned(
               bottom: -40.0,
               child: CircleAvatar(
-                radius: 80,
+                radius: 100,
                 backgroundColor: Colors.white,
                 backgroundImage: NetworkImage(
                     'https://scontent.fbkk17-1.fna.fbcdn.net/v/t1.6435-9/97764756_248685576452006_7798218389582774272_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=174925&_nc_eui2=AeECMiTCaySA47fYAgeh3U06Wyf1jpnQ-PhbJ_WOmdD4-DeGFPn-2mYZwsxH2pBbPWP-3NOcM1ApOMaH7AQhzF3a&_nc_ohc=UjKENwIIhz0AX9DWPwW&_nc_ht=scontent.fbkk17-1.fna&oh=9ada6d586a3c03de26016d1f87fec4de&oe=60FD6D55'),
